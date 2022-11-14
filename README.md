@@ -16,6 +16,16 @@
  ⚡ Fun fact: My favourite dogs are old english bulldogs 🐶 (because I have one lol)
  
  
- Skills
+ 🛠 Tools 
+ 
+    SQL
+    
+    Excel
+    
+    Tableau
+    
+    Power BI
+    
+    
  
  
