@@ -15,16 +15,9 @@
  
  ⚡ Fun fact: My favourite dogs are old english bulldogs 🐶 (because I have one lol)
  
+ 🛠 Tools: SQL | Excel | Tableau | Power BI |
  
- 🛠 Tools 
  
-    SQL
-    
-    Excel
-    
-    Tableau
-    
-    Power BI
     
     
  
