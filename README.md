@@ -5,9 +5,9 @@
 
  🔭 I’m currently working on multiple data analytics projects
  
- 🌱 I’m currently learning python
+ 👨‍💻 I’m currently learning python
  
- 🤔 I’m looking to break into the tech industry
+ 👀 I’m looking to break into the tech industry
  
  🏀 My favourite team is the Toronto Raptors
  
