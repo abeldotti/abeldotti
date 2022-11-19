@@ -3,7 +3,7 @@
 
  📚 I have a degree in Economics from Carleton University!
 
- 🔭 I’m currently working on multiple data analytics projects
+ 🔭 I’m currently working on multiple data analytics and visualization projects
  
  👨‍💻 I’m currently learning python
  
