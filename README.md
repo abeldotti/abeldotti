@@ -3,7 +3,7 @@
 
  📚 I have a degree in Economics from Carleton University!
 
- 🔭 I’m currently working on multiple data analytics and visualization projects
+ 🔭 I’m currently working on multiple data analytics and visualization projects (https://public.tableau.com/app/profile/abel.dotti)
  
  👨‍💻 I’m currently learning python
  
