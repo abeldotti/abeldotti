@@ -6,9 +6,7 @@
  🔭 I’m currently working on multiple data analytics and visualization projects (https://public.tableau.com/app/profile/abel.dotti)
  
  👨‍💻 I’m currently learning python
- 
- 👀 I’m looking to break into the tech industry
- 
+  
  🏀 My favourite team is the Toronto Raptors
  
  📫 How to reach me abeldotti1@gmail.com or linkedin.com/in/abel-dotti/
